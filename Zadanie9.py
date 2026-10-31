@@ -1,5 +1,5 @@
 print("Kalkulator")
-operator = input("podaj operator (wpisz + - * / **: ")
+operator = input("podaj operator (wpisz + - * / **): ")
 a = float(input("podaj a: "))
 b = float(input("podaj b: "))
 
